@@ -1,0 +1,2 @@
+# Ajedrez
+N Queens Puzzle
