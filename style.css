@@ -1,18 +1,9 @@
-/* .blanco{
-    background-color:#cac3c0 ;
-    width: 30px; 
-    height: 30px;
+
+.icon{
+    color: #83cdf2;
+    border-color: black;
+    
 }
-
-.negro{
-    background-color:#1f1d1c ;
-    width: 30px; 
-    height: 30px;
-} */
-
-/* body {
-    text-align: center;
-} */
 
 .cell {
     height: 30px;
