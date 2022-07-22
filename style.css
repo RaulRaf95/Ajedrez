@@ -1,11 +1,35 @@
-.blanco{
-    background-color:white ;
+/* .blanco{
+    background-color:#cac3c0 ;
     width: 30px; 
     height: 30px;
 }
 
 .negro{
-    background-color:black ;
+    background-color:#1f1d1c ;
     width: 30px; 
     height: 30px;
+} */
+
+/* body {
+    text-align: center;
+} */
+
+.cell {
+    height: 30px;
+    width: 30px;
+    border: 1.5px solid grey;
+    border-style: inset;
+}
+
+.blackcell {
+    background-color:#1f1d1c;
+}
+
+.whitecell {
+    background-color: white;
+}
+
+.reina{
+    font-weight: bold;
+    color: brown;
 }
